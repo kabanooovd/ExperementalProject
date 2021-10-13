@@ -8,11 +8,13 @@ export const UniqueButton = React.memo(({
     disabled,
     buttonTitle,
     size,
+    type,
 } : {
     uniqueOnClick?: () => void
     disabled?: boolean
     buttonTitle: string
     size: ButtonSize_T | undefined
+    type?: 'submit'
 }) => {
 
     // const buttonStyle = size === 'Large' ? st.bigButtonStyles : ''
@@ -24,7 +26,9 @@ export const UniqueButton = React.memo(({
 
     return <button className={buttonStyle}
                    onClick={uniqueOnClick}
-                   disabled={disabled}>
+                   disabled={disabled}
+                   type={type}
+    >
         {buttonTitle}
     </button>
 })
