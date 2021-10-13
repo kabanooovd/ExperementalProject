@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/ExperementalProject.git/static/css/main.1562478b.chunk.css",
-    "main.js": "/ExperementalProject.git/static/js/main.4cda1e88.chunk.js",
-    "main.js.map": "/ExperementalProject.git/static/js/main.4cda1e88.chunk.js.map",
-    "runtime-main.js": "/ExperementalProject.git/static/js/runtime-main.cab97262.js",
-    "runtime-main.js.map": "/ExperementalProject.git/static/js/runtime-main.cab97262.js.map",
-    "static/js/2.e949247a.chunk.js": "/ExperementalProject.git/static/js/2.e949247a.chunk.js",
-    "static/js/2.e949247a.chunk.js.map": "/ExperementalProject.git/static/js/2.e949247a.chunk.js.map",
-    "static/js/3.80825f02.chunk.js": "/ExperementalProject.git/static/js/3.80825f02.chunk.js",
-    "static/js/3.80825f02.chunk.js.map": "/ExperementalProject.git/static/js/3.80825f02.chunk.js.map",
-    "index.html": "/ExperementalProject.git/index.html",
-    "static/css/main.1562478b.chunk.css.map": "/ExperementalProject.git/static/css/main.1562478b.chunk.css.map",
-    "static/js/2.e949247a.chunk.js.LICENSE.txt": "/ExperementalProject.git/static/js/2.e949247a.chunk.js.LICENSE.txt"
+    "main.css": "/ExperementalProject/static/css/main.1562478b.chunk.css",
+    "main.js": "/ExperementalProject/static/js/main.4cda1e88.chunk.js",
+    "main.js.map": "/ExperementalProject/static/js/main.4cda1e88.chunk.js.map",
+    "runtime-main.js": "/ExperementalProject/static/js/runtime-main.1e8c6bd5.js",
+    "runtime-main.js.map": "/ExperementalProject/static/js/runtime-main.1e8c6bd5.js.map",
+    "static/js/2.e949247a.chunk.js": "/ExperementalProject/static/js/2.e949247a.chunk.js",
+    "static/js/2.e949247a.chunk.js.map": "/ExperementalProject/static/js/2.e949247a.chunk.js.map",
+    "static/js/3.80825f02.chunk.js": "/ExperementalProject/static/js/3.80825f02.chunk.js",
+    "static/js/3.80825f02.chunk.js.map": "/ExperementalProject/static/js/3.80825f02.chunk.js.map",
+    "index.html": "/ExperementalProject/index.html",
+    "static/css/main.1562478b.chunk.css.map": "/ExperementalProject/static/css/main.1562478b.chunk.css.map",
+    "static/js/2.e949247a.chunk.js.LICENSE.txt": "/ExperementalProject/static/js/2.e949247a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.cab97262.js",
+    "static/js/runtime-main.1e8c6bd5.js",
     "static/js/2.e949247a.chunk.js",
     "static/css/main.1562478b.chunk.css",
     "static/js/main.4cda1e88.chunk.js"
